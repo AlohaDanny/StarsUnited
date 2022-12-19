@@ -1,0 +1,32 @@
+body {
+    font-family: 'Rasa', serif;
+    font-weight: 300;
+         background-color: #448cdf;
+    color: #e6d3b6;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.button {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+iframe{
+    margin-left: 50vw;
+    transform: translate(-50%);
+ 
+
